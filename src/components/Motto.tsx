@@ -1,4 +1,4 @@
-import { merriweather } from "@/app/layout";
+import { merriweather } from "@/lib/font";
 import React from "react";
 
 export default function Motto() {

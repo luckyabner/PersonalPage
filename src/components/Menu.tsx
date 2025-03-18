@@ -1,5 +1,5 @@
-import { montserrat } from "@/app/layout";
-import { MENUS } from "@/config";
+import { MENUS } from "@/lib/config";
+import { montserrat } from "@/lib/font";
 import Link from "next/link";
 import React from "react";
 

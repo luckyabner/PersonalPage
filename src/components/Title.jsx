@@ -1,4 +1,4 @@
-import { merriweather, montserrat } from "@/app/layout";
+import { montserrat } from "@/lib/font";
 import React from "react";
 
 export default function Title() {

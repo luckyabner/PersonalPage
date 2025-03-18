@@ -1,4 +1,4 @@
-import { SOCIALS } from "@/config";
+import { SOCIALS } from "@/lib/config";
 import Link from "next/link";
 import React from "react";
 
